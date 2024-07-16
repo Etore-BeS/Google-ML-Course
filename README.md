@@ -11,8 +11,7 @@ I'm undertaking this course to enhance my skills in **Machine Learning Engineeri
 ## 📂 Repository Structure
 Here's how this repository is organized:
 
-- **notebooks/**: Jupyter notebooks containing the course exercises and solutions.
-- **datasets/**: Sample datasets used for the exercises.
+- **exercises/**: Jupyter notebooks containing the course exercises and solutions.
 
 ## 🛠️ Setup
 To run the exercises and projects, you need to have Python and the required libraries installed. Here's a quick setup guide:
