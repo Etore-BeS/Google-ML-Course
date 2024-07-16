@@ -30,6 +30,6 @@ To run the exercises and projects, you need to have Python and the required libr
   pip install -r requirements.txt
   ```
 ## 🌟 Let's Connect!
-Feel free to reach out if you have any questions, suggestions, or just want to chat about Machine Learning! You can find me on LinkedIn or Twitter.
+Feel free to reach out if you have any questions, suggestions, or just want to chat about Machine Learning! You can find me on [LinkedIn](https://www.linkedin.com/in/etore-braga/).
 
 Happy Learning! 🚀✨
